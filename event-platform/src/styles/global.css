@@ -5,8 +5,3 @@
 body {
   @apply bg-zinc-900 text-zinc-100;
 }
-
-// CMS = content management system
-//traz tanto o painel de ADMIN quanto a aprte visual do frontend (temas)
-//Headless CMS (GraphCMS): painel de ADMIN (ddos fornecidos através de uma API REST ou GraphQL)
-// React que consome essa API do CMS
