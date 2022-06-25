@@ -134,5 +134,5 @@ export function Video(props: VideoProps) {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
