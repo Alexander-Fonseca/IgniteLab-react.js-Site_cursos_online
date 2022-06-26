@@ -40,9 +40,9 @@ export function Sidebar() {
               availableAt={new Date(lesson.availableAt)}
               type={lesson.lessonType}
             />
-          )
+          );
         })}
       </div>
     </aside>
-  )
-}
+  );
+};
