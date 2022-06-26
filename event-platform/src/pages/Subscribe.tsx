@@ -18,7 +18,7 @@ export function Subscribe() {
 
   function handleSubscribe(event: FormEvent){
     event.preventDefault();
-
+    
     createSubscriber({
       variables: {
         name,
