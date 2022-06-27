@@ -63,7 +63,8 @@ export function Subscribe() {
           </div>
       </div>
       <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
-
+      
+      <img className="absolute top-0 w-[40%]" src="/src/assets/reactlogo.png" alt="" />
     </div>
   );
 }
